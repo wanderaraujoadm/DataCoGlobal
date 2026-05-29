@@ -4,7 +4,7 @@
 
 </p>
 <p align="center">
-  <img src="capa.png" alt="Demonstração do Ecossistema DataCo Global" width="700">
+  <img src="Capa.png" alt="Demonstração do Ecossistema DataCo Global" width="700">
 </p>
 
 ## 1. O Problema de Negócio 
@@ -48,10 +48,10 @@
 * <b>Rastreabilidade e Qualidade:</b> O uso de checklists, prazos e validações garantiu maior controle sobre todas as fases do desenvolvimento, desde o entendimento do negócio até a publicação final do dashboard.
 
 <p align="center">
-  <img src="trello1.png" alt="Demonstração do Ecossistema DataCo Global" width="700">
+  <img src="Trello1.png" alt="Trello 1 CRISPDM" width="700">
 </p>
 <p align="center">
-  <img src="trello2.png" alt="Demonstração do Ecossistema DataCo Global" width="700">
+  <img src="Trello2.png" alt="Trello 2 CRISPDM" width="700">
 </p>
 
 
@@ -71,7 +71,7 @@
 <p/>
 
 <p align="center">
-  <img src="Fluxo.png" alt="Demonstração do Ecossistema DataCo Global" width="700">
+  <img src="Fluxo.png" alt="Fluxo do Dado" width="700">
 </p>
 
 ### Macrofluxo do Ciclo de Vida do Dado:
