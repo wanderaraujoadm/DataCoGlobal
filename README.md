@@ -1,8 +1,7 @@
-<p align="center">
+<h1 align="center"> 
+DataCo Global - Ecossistema de análise estratégica
+</h1>
 
-# DataCo Global - Ecossistema de análise estratégica
-
-</p>
 <p align="center">
   <img src="Capa.png" alt="Demonstração do Ecossistema DataCo Global" width="700">
 </p>
