@@ -88,11 +88,11 @@ DataCo Global - Ecossistema de análise estratégica
 <p/>
 
 <p align="center">
-  📘 <a href="#">Engenharia de Dados e Modelagem</a> Disponível em 09/06/2026<br>
-  🚚 <a href="#">Visão Logística</a> Disponível em 16/06/2026<br>
-  💰 <a href="#">Visão Comercial</a>Disponível em 23/06/2026<br> 
-  📊 <a href="#">Visão Pricing</a>Disponível em 30/06/2026<br> 
-  🎯 <a href="#">Visão Marketing</a> Disponível em 07/07/2026
+  📘 <a href="https://github.com/wanderaraujoadm/01_engenharia_dados">Engenharia de Dados e Modelagem</a> ✅ Acessar conteúdo<br>
+  🚚 <a href="#">Visão Logística</a> - Disponível em 16/06/2026<br>
+  💰 <a href="#">Visão Comercial</a> - Disponível em 23/06/2026<br> 
+  📊 <a href="#">Visão Pricing</a> - Disponível em 30/06/2026<br> 
+  🎯 <a href="#">Visão Marketing</a> - Disponível em 07/07/2026
 </p>
 
 
